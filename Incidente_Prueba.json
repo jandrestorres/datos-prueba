@@ -1,0 +1,17 @@
+{
+  "incidents": [
+    {
+      "incident": {
+        "id": "101",
+        "type": "HAZARD",
+        "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+        "polyline": "-74.139535 4.639946 -74.139559 4.639951 -74.139502 4.639923",
+        "street": "Calle 8b BIS",
+        "starttime": "2025-07-27T21:52:10-05:00",
+        "endtime": "2025-07-29T23:59:59-05:00",
+        "description": " Deep and wide pothole on the corner",
+        "direction": "BOTH_DIRECTIONS"
+      }
+    }
+  ]
+}
